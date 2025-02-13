@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile_pic.png"
-  name             : # "Your Sidebar Name"
+  name             : "Christophe Boetto, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Currently a postdoctoral student in Peter Park's lab working on statistical modeling for Human Genetics."
   location         : "Boston, MA"
