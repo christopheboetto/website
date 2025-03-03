@@ -7,6 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+<!---
+About indexing page : 
+https://github.com/orgs/community/discussions/42375
+--->
+
 Currently a postdoctoral fellow at Peter Park’s lab in the DBMI department from Harvard Medical School. I come from a mathematical and computational background with now applications in genetics, microbiology and metabolomics. I graduated from the French engineering school ENSTA, Institut Polytechnique de Paris and then underwent a PhD at the Institut Pasteur in Hugues Achard's statistical genetics lab. My current research interest is to focus on improving mathematical and computational methodology to better understand complex phenomena in large scale datasets.
 
 A word on my work as a PhD
