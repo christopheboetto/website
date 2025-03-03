@@ -14,7 +14,7 @@ A word on my work as a PhD
 My thesis, entitled : *A novel statistical approach to evaluate effects on covariance/correlation and its application in human gut microbiome and metabolomic*, focused on mathematically quantifying the impact of a variable on the correlation structure of a multivariate outcome of interest. In other words, the question raised was to develop a statistical framework that could detect how a predictor of interest, genetics or environmental, could have an impact on the relationships between multivariate data variables as seen through its covariance/correlation matrix. The contribution of my thesis can be summarized in two axes. The first one is the statistical framework I developed which provides a novel and robust way of assessing those changes in covariance/correlations, for any type of predictor, whether binary, ordinal or continuous, all while adjusting for covariates. The two last points being novel in comparison to existing tools in the literature. The second axis is the highlight of biological pathways through the detection of altered relationships between omics data. In the field of microbiology, we depicted changes in healthy human gut microbiome communities, and in metabolomics we identified genetics altering metabolites pathways. 
 
 
-Getting started
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
@@ -46,3 +46,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
